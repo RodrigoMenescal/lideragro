@@ -731,13 +731,13 @@ banner
   margin-bottom: 20px;
   font-size: 36px;
   /* text-transform: uppercase; */
-  color: #b9b9b9;
+  color: #fff;
   letter-spacing: 1px;
 }
 
 .main-banner .caption h2 em {
   font-style: normal;
-  color: #b9b9b9;
+  color: #fff;
   font-weight: 900;
 }
 
@@ -1769,20 +1769,25 @@ responsive
 
   .main-banner .caption {
     top: 60%;
+    text-align: center;
+    margin-left: 13px;
+  }
+  .main-banner .caption a{
+    margin-left: 40px;
   }
 
   .main-banner .caption h2 {
     margin-top: 10px;
     margin-bottom: 10px;
-    font-size: 22px;
+    font-size: 40px;
   }
 
   .main-banner .caption .main-button-red {
-    margin-top: 15px;
+    margin-top: 50px !important;
   }
 
   .services {
-    margin-top: 60px;
+    /* margin-top: 60px; */
   }
 
   section.upcoming-meetings {
