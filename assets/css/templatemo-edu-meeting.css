@@ -188,11 +188,11 @@ body {
 }
 
 .section-heading h2 {
-  padding-top: 18px;
+  padding-top: 37px;
   line-height: 40px;
   margin-top: 60px;
-  margin-bottom: 50px; 
-  padding-bottom: 20px;
+  margin-bottom: 20px; 
+  padding-bottom: 0;
   border-top: 1px solid #F89F32;
   font-size: 22px;
   font-weight: 700;
@@ -326,6 +326,12 @@ header
 .header-area .main-nav .nav li {
   padding-left: 15px;
   padding-right: 15px;
+}
+
+.section-heading-pilares{
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
 }
 
 .header-area .main-nav .nav li:last-child {
@@ -1332,7 +1338,7 @@ section.contact-us {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 88px 0px 0px 0px;
+  padding: 1px 0px 0px 0px;
   background-color: #013F3A;
 }
 
