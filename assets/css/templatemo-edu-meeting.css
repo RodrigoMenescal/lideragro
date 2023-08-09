@@ -188,9 +188,9 @@ body {
 }
 
 .section-heading h2 {
-  padding-top: 37px;
+  padding-top: 78px;
   line-height: 40px;
-  margin-top: 60px;
+  margin-top: 81px;
   margin-bottom: 20px; 
   padding-bottom: 12px;
   border-top: 1px solid #F89F32;
@@ -755,7 +755,7 @@ banner
 }
 
 .main-banner .caption .main-button-red {
-  margin-top: 30px;
+  margin-top: 53px;
 }
 
 @media screen and (max-width: 767px) {
