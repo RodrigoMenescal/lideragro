@@ -192,7 +192,7 @@ body {
   line-height: 40px;
   margin-top: 60px;
   margin-bottom: 20px; 
-  padding-bottom: 0;
+  padding-bottom: 12px;
   border-top: 1px solid #F89F32;
   font-size: 22px;
   font-weight: 700;
@@ -899,7 +899,7 @@ section.upcoming-meetings {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 312px;
+  padding-top: 346px;
   padding-bottom: 110px;
   background-color: #013F3A;
 }
